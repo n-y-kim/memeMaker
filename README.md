@@ -1,2 +1,3 @@
 # memeMaker
-mongja jjondduck
+> dedicated to mongja & jjondduck
+
